@@ -1,29 +1,47 @@
-questions = [
-    {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+questions = [    {
+        "question": "Urina är ett godtagbart namn för Iryna.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
             "dipl": 0,
             "govt": -5,
             "scty": 0
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Det heter "Simons mancave", inte "Mimmis pluggrum".",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Det luktar lite Pannie här.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
             "scty": 0
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Salmonella är Irynas favoritord.",
         "effect": {
-            "econ": -10,
+            "econ": 5,
             "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "govt": -5,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Simon borde kolla igenom alla datorer igen.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": 5
         }
     }
+
 ];
