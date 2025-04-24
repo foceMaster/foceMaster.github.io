@@ -1,4 +1,5 @@
-questions = [    {
+questions = [
+    {
         "question": "Urina är ett godtagbart namn för Iryna.",
         "effect": {
             "econ": 5,
@@ -8,7 +9,7 @@ questions = [    {
         }
     },
     {
-        "question": "Det heter "Simons mancave", inte "Mimmis pluggrum".",
+        "question": "Det heter Simons mancave, inte Mimmis pluggrum.",
         "effect": {
             "econ": 0,
             "dipl": 0,
