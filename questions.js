@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Urina är ett godtagbart namn för Iryna.",
+        "question": "Urina ar ett godtagbart namn for Iryna.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "Det luktar lite Pannie här.",
+        "question": "Det luktar lite Pannie har.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "Salmonella är Irynas favoritord.",
+        "question": "Salmonella ar Irynas favoritord.",
         "effect": {
             "econ": 5,
             "dipl": 0,
