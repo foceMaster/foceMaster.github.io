@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Urina ar inte ett godtagbart namn for Iryna.",
+        "question": "Urina \u00E4r inte ett godtagbart namn for Iryna.",
         "effect": {
             "econ": 5,
             "dipl": 0,
