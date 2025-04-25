@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "Det luktar lite Pannie har.",
+        "question": "Det luktar lite Pannie h&auml;r.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "Salmonella ar Irynas favoritord.",
+        "question": "Salmonella &auml;r Irynas favoritord.",
         "effect": {
             "econ": 5,
             "dipl": 0,
