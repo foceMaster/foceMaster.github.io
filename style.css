@@ -248,22 +248,22 @@ div.peace {
 div.liberty {
     background-color: #f19d38;
     text-align: left;
-    border-left-style: solid;
+    border-right-style: solid;
 }
 div.authority {
     background-color: #8538a4;
     text-align: right;
-    border-right-style: solid;
+    border-left-style: solid;
 }
 div.tradition {
     background-color: #55afde;
     text-align: left;
-    border-left-style: solid;
+    border-right-style: solid;
 }
 div.progress {
     background-color: #ff2b79;
     text-align: right;
-    border-right-style: solid;
+    border-left-style: solid;
 }
 span.weight-300 {
     font-weight: 300;
