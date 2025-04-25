@@ -161,6 +161,7 @@ stats"></a></div></noscript>
         c.height = 650;
         ctx.fillStyle = "#EEEEEE"
         ctx.fillRect(0,0,800,650);
+	let colors = ["#f44336","#00897b","#ff9800","#03a9f4","#ffeb3","#3f51b5","#8bc34a","#9c27b0"]
 
         img = document.getElementById("img-equality")
         ctx.drawImage(img, 20, 170, 100, 100);
@@ -184,21 +185,21 @@ stats"></a></div></noscript>
         ctx.fillRect(120, 300, 560, 80)
         ctx.fillRect(120, 420, 560, 80)
         ctx.fillRect(120, 540, 560, 80)
-        ctx.fillStyle="#f44336"
+        ctx.fillStyle=colors[0]
         ctx.fillRect(120, 184, 5.6*equality-2, 72)
-        ctx.fillStyle="#00897b"
+        ctx.fillStyle=colors[1]
         ctx.fillRect(682-5.6*wealth, 184, 5.6*wealth-2, 72)
-        ctx.fillStyle="#ff9800"
+        ctx.fillStyle=colors[2]
         ctx.fillRect(120, 304, 5.6*might-2, 72)
-        ctx.fillStyle="#03a9f4"
+        ctx.fillStyle=colors[3]
         ctx.fillRect(682-5.6*peace, 304, 5.6*peace-2, 72)
-        ctx.fillStyle="#ffeb3b"
+        ctx.fillStyle=colors[4]
         ctx.fillRect(120, 424, 5.6*liberty-2, 72)
-        ctx.fillStyle="#3f51b5"
+        ctx.fillStyle=colors[5]
         ctx.fillRect(682-5.6*authority, 424, 5.6*authority-2, 72)
-        ctx.fillStyle="#8bc34a"
+        ctx.fillStyle=colors[6]
         ctx.fillRect(120, 544, 5.6*tradition-2, 72)
-        ctx.fillStyle="#9c27b0"
+        ctx.fillStyle=colors[7]
         ctx.fillRect(682-5.6*progress, 544, 5.6*progress-2, 72)
         ctx.fillStyle="#222222"
         ctx.font="700 80px Montserrat"
