@@ -12,16 +12,16 @@ questions = [
         "question": "Det heter Simons mancave, inte Mimmis pluggrum.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": 10
+            "dipl": 5,
+            "govt": 0,
+            "scty": 5
         }
     },
     {
         "question": "Simon borde kolla igenom alla datorer igen, f&ouml;r skojs skull.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 5,
             "scty": 0
         }
@@ -31,7 +31,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 5,
             "scty": 10
         }
     },
@@ -39,7 +39,7 @@ questions = [
         "question": "Det skulle vara b&auml;st f&ouml;r alla om skolan crowdfundade Ritas f&ouml;rtidspension.",
         "effect": {
             "econ": 5,
-            "dipl": 10,
+            "dipl": 5,
             "govt": 0,
             "scty": -5
         }
@@ -48,9 +48,9 @@ questions = [
         "question": "Mimmi Johansson &auml;r mer chill &auml;n Mimmi Schill.",
         "effect": {
             "econ": -5,
-            "dipl": 10,
+            "dipl": 5,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -58,7 +58,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 10,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -68,7 +68,7 @@ questions = [
             "econ": -5,
             "dipl": -10,
             "govt": 0,
-            "scty": -5
+            "scty": 0
         }
     },
     {
@@ -83,7 +83,7 @@ questions = [
     {
         "question": "PT &auml;r grunden till all v&auml;rldens ondska.",
         "effect": {
-            "econ": 5,
+            "econ": 0,
             "dipl": 0,
             "govt": -10,
             "scty": -5
@@ -94,16 +94,16 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 5,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
         "question": "Skolan borde sluta med NP i moderna spr&aring;k.",
         "effect": {
-            "econ": -10,
+            "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": -5,
             "scty": -5
         }
     },
@@ -131,7 +131,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 10
+            "scty": 0
         }
     },
     {
@@ -140,14 +140,14 @@ questions = [
             "econ": 10,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": 0
         }
     },
     {
         "question": "F&ouml;r att folk ska sluta vapea borde kokain bli till&aring;tet inom skolans omr&aring;de.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 0,
             "scty": -10
         }
@@ -156,7 +156,7 @@ questions = [
         "question": "Grupprummen borde vara &ouml;ppna under rasten.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": 0,
             "govt": -5,
             "scty": 0
         }
@@ -164,10 +164,10 @@ questions = [
     {
         "question": "Niklas gjorde r&auml;tt i att g&aring; till Kungsgrillen under sin lektion.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": 0,
             "govt": -5,
-            "scty": 10
+            "scty": -10
         }
     },
     {
@@ -193,14 +193,14 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 5,
+            "govt": -5,
             "scty": 0
         }
     },
     {
         "question": "Simon &auml;r den &ouml;verl&auml;gset b&auml;sta l&auml;raren.",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 5,
             "govt": 0,
             "scty": 5
@@ -211,7 +211,7 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -229,14 +229,14 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "question": "Det roligaste skolan har att erbjuda &auml;r lektioner.",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
             "govt": 10,
             "scty": 5
@@ -283,14 +283,14 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 5,
-            "govt": 5,
+            "govt": 0,
             "scty": 10
         }
     },
     {
         "question": "F&ouml;r att minska skolkandet borde elever kedjas fast vid sina b&auml;nkar.",
         "effect": {
-            "econ": 5,
+            "econ": 0,
             "dipl": 0,
             "govt": 10,
             "scty": 5
@@ -299,9 +299,9 @@ questions = [
     {
         "question": "Jag har en bra relation till Darko.",
         "effect": {
-            "econ": -5,
-            "dipl": 5,
-            "govt": 10,
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
             "scty": 10
         }
     }
