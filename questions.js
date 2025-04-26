@@ -304,6 +304,6 @@ questions = [
             "govt": 10,
             "scty": 10
         }
-    },
+    }
 
 ];
