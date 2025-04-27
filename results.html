@@ -100,10 +100,10 @@ stats"></a></div></noscript>
     //diplArray = ["Gul","H&auml;nger ej p&aring; fritidsg&auml;rden","N&aring;got gulfokuserad","Normal person","&Auml;ter ej i matsalen","Egen mopedbil","Vit"]
     //govtArray = ["Vem &auml; Darko?","Aldrig fr&aring;nvarande","Alltid n&auml;rvarande","Ofta f&ouml;rkyld","Lite skolk d&aring; och d&aring;","Kungsgrillens b&auml;sta kund","Darkos mardr&ouml;m"]
     //sctyArray = ["&quot;F&aring;r jag A nu?&quot;","&quot;Ska jag t&auml;nda i taket?&quot;","Mickes favoritbarn","Obem&auml;rkt","Kanske n&aring;got enstaka slagsm&auml;l","&quot;Jas&aring;, vi hade en till i klassen?&quot;","&Auml;kta Darko-stammis]
-    econArray = ["","","","","","",""]
-    diplArray = ["","","","","","",""]
-    govtArray = ["","","","","","",""]
-    sctyArray = ["","","","","","",""]
+    econArray = ["0-meritare","F-barn","E-barn","C-barn","B-barn","A-barn","340-meritare"]
+    diplArray = ["Charlottes favorit","Egen mopedbil","&Auml;ter ej i matsalen","Normal, sansad, person","Biblioteksstammis","M&aring;larf&auml;rgshatare","Takhatare"]
+    govtArray = ["&quot;Jas&auml;, vi hade en till i klassen?&quot;","Ofta förkyld","Sjuk tisdag vartannan vecka","Sjuk ibland","Alltid i skolan","Aldrig sjuk","0% fr&aring;nvaro"]
+    sctyArray = ["Darkos mardr&ouml;m","Kokain i sk&aring;pet","Energidricka i sk&aring;pet","Osynlig","Mariams hj&auml;lpreda","Christofers kyckling","Mickes favoritbarn"]
 
 
 	
@@ -172,9 +172,6 @@ stats"></a></div></noscript>
         c.height = 650;
         ctx.fillStyle = "#EEEEEE"
         ctx.fillRect(0,0,800,650);
-	//let colors = ["#f44336","#00897b","#ff9800","#03a9f4","#ffeb3","#3f51b5","#8bc34a","#9c27b0"]
-	//let colors = ["#e31c24","#5eaf41","#ffffff","#e6ba44","#f19d38","#9031aa","#55afde","#ff2b79"]
-	//let colors = ["#000","#000","#000","#000","#000","#000","#000","#000"]
 
         img = document.getElementById("img-equality")
         ctx.drawImage(img, 20, 170, 100, 100);
