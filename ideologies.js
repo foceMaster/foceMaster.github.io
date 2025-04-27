@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Anarkokoffunism",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "Libertariansk koffunism",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "Vujcicism",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "Mariexism",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "Jessikism",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "Matostism",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Berkéism",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Religi&ouml;s koffunism",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Socialism",
+        "name": "Stats-zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Theokratisk zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Religi&ouml;s zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Demokratisk zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "Revolution&auml;r zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "Libertariansk zoukialism",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "Anarkostudiost&ouml;dism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Wing Populism",
+        "name": "Schylism",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "Theokratisk irynism",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -153,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Distributism",
+        "name": "Irynism",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "Zoukialistisk skolkism",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "Malinistisk sandrism",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Zoukialistisk sandrism",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressivism",
+        "name": "Simonism",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "Anarkozaarism",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "Vita-totalitarianism",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "Gula-totalitarianism",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "Flinkism",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Lindmarxism",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "Skolkism",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "Religi&ouml;s niklasism",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "Roneforsism",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Moderate Conservatism",
+        "name": "Moderate leifism",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "Karinism",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Libertarianism",
+        "name": "Zoukialistisk rundqvistism",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarianism",
+        "name": "Rundqvistism",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "Anarkoegoism",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
+        "name": "Charlotteism",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fascism",
+        "name": "Ritism",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "Betygisk ritism",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "Leifism",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "Nyskolkism",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -369,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "Klassisk skolkism",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "Auktoritär betygism",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "Statsbetygism",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "Nyleifism",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "Libertariansk betygism",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "Nyniklasism",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "Gullism",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Capitalism",
+        "name": "Totaliär betygism",
         "stats": {
             "econ": 0,
             "dipl": 30,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ultra-Capitalism",
+        "name": "Ultrabetygism",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "Anarkobetygism",
         "stats": {
             "econ": 0,
             "dipl": 50,
